@@ -1,0 +1,4 @@
+Version = "2023-03-26r00"
+Authors = ["ThisisBBC"]
+Name = "Leech No More"
+Description = "Detects when leechers are downloading, and sends them a message after a file is leeched. Ban turbo leechers (optional)"
