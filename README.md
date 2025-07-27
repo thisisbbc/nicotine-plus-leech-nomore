@@ -1,5 +1,5 @@
 # Nicotine+ – Leech No More (Plugin)
-The Leech No More plugin is based on Leech Detector and adds an option to ban users that share zero file (aka 'Turboleechers').
+Leech No More is a <a href="https://github.com/nicotine-plus/nicotine-plus">Nicotine+</a> plugin is based on Leech Detector and adds an option to ban users that share zero file (aka 'Turboleechers').
 
 Installation instructions:
 - Simply copy the 'leech_nomore' folder into your Nicotine+ 'plugins' folder (./Nicotine+/lib/pynicotine/plugins)
